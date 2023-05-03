@@ -1,2 +1,2 @@
 # Crashing into you
-its a flappy drone game
+its an endless flappy drone game
